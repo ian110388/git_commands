@@ -161,3 +161,9 @@ git stash drop stash{0}
 git stash show stash{0}
 git stash list --stat
 ```
+
+> Configuración global para realizar el pull con Fast Forward
+
+```
+git config --global pull.ff only
+```
