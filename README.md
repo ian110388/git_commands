@@ -144,6 +144,18 @@ git tag -a v0.1.0 hash -m "versión alpha de la app"
 git show v0.1.0
 ```
 
+> Subir un tag específico al repositorio remoto
+
+```
+git push origin tag v0.0.1
+```
+
+> Subir todos los tags al repositorio remoto
+
+```
+git push --tags
+```
+
 > Agregar elementos al stash con un comentario para poderlo identificar
 
 ```
