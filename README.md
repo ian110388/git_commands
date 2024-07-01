@@ -157,6 +157,24 @@ git push origin tag v0.0.1
 git push --tags
 ```
 
+> Subir cambios al repositorio remoto
+
+```
+git push
+```
+
+> Trerme los cambios repositorio remoto
+
+```
+git pll
+```
+
+> Trerme todos los cambios repositorio remoto (Incluyendo ramas)
+
+```
+git pll --all
+```
+
 > Agregar elementos al stash con un comentario para poderlo identificar
 
 ```
