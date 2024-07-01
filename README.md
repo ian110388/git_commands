@@ -46,7 +46,8 @@ git status --short
 > Status.
 
 ```
-git config --global alias.s "status --short"
+git config --global alias.s "status --short --branch"
+git config --global alias.s "status -sb"
 ```
 
 > Log.
