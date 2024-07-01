@@ -24,7 +24,7 @@ git reset file
 > Recontruye el proyecto a como estaba antes
 
 ```
-git checkout --.
+git checkout -- .
 ```
 
 > Renombrar branch.
