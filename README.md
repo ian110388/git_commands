@@ -166,13 +166,13 @@ git push
 > Trerme los cambios repositorio remoto
 
 ```
-git pll
+git pull
 ```
 
 > Trerme todos los cambios repositorio remoto (Incluyendo ramas)
 
 ```
-git pll --all
+git pull --all
 ```
 
 > Agregar elementos al stash con un comentario para poderlo identificar
