@@ -1,5 +1,7 @@
 # git_commands
 
+[Otro manual](https://gist.github.com/hofmannsven/6814451)
+
 > Editar la configuración global con editor de texto.
 
 ```
